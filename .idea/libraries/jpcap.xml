@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jpcap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jpcap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jpcap.jar!/" />
+    </SOURCES>
+  </library>
+</component>
